@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "northern-math-376403",
+  "private_key_id": "3a0779d6d57cbcf588b434474e68099549ce59d9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCW3+P1LKr7YcjZ\n15e9A5fs7OcFxZx0ArKChUJU4eJIdYDnaw7SwPk9eiAwFLjUrqKpA9dTaqo/tx6I\nOz8a6u2nIWj3IOAQ5u+hLDwM7OjgkFMHHW5v4PQdMsXv2frBIXnl7loJpNfY1xKz\nGi04ursZBlLfF2pRmDCWbX5ipjmsqi0p31FIyYsmV8oATIQkMGtPoeYE4E6KcNG/\nEYSmiCHhKNCRJLI6kxwv5HByscdSf4ThOxcOmZog/drfMe145AboZGTeAL5PIfL9\nq9+k73hc/TaHPNvXXecQ6ss3pWbgtAbFEairmUHkYmpFD1tLb/kcMUoTu0RYD45T\nDZDB2+QFAgMBAAECggEADqSHEr31kDUy0ZWfd+w32/o4B7Lgls/GNG2rfOJ5XC/v\nRUZ6J1EsP1+xbQkt0RJr3fxt8v4YrNtgXrdlTf779qsC7W0m4e0P17Qb1eNOTLEl\nJb0hAUGzX3wUgs1EjWbq1jp2SZZSjox9F53UQru4udqHw3gZzPZ4zLiuufNJCK1L\nULnUlQkrgkPwL7axcEAndOKvKsCswZKZCK8PhBP3RMBV0yC95I2iGkCmTHICEiEa\noqWdKWNdPAQadhDaanxj7RD8jBmcMSx6mwamsI3LP/gDrqxVKrcQ8xRLiaCQQPDe\n7p15KfPwtz+9KhFfjDXL3AV6EIqadHM/BrYNUTRWcQKBgQDJrfgICo8sVwzFlDRn\nDQRYL1jfjD+r0ZBmVcjnpKs2nZ9459ZecAEaqGziU1Ewl/mDvc3c+eF4Hue9VQVK\n5yD58KJbEEDkiZW/Md+Sq7Xg8Si50+ZCQ9Mzn63S2OEKGo5zugvLPHZo5jqL39G6\n5qiBXjfD+qZGkNFpN6I+dEQQnQKBgQC/gtxOVwLJFphgbIqx2dRyEg1BGHXUwtgQ\nUVonULr+6pp8NVj+B7oL/5QHYx+Gzglx8c97H022C+8D1ZZT/afTfqyU0XdPsCYU\ntDjm/vYFth4yLE3kfy/VYtHDjBpRUrq9dydw6EJvkxjHcQgxLxgVHuZC8VmdcQru\nB2R6ZnsAiQKBgQDB9vUTFsS4CkiYRX9YlOZWwcKhzUr3Pqe4JE0CrBaWgmX7bE15\nqhMFxnJiAWuWZrNshsFVA2Zblq2eJAThEwVeHJapKiqfIcvJhHfXohlca9OVVTyh\nAoY/ohUVMczNYNkcaBQrtMzU+ofYOryFGo15TlonvArq1yDwJrd9hWho6QKBgBOt\nkJGEI0ciSTnvLTklFs05yZ7cso7QDn9uvIK5qt0yofkNSj2f8Z/1/PHdX4nsdc/9\ndsJB7yw7ga21LqMmty3mIDmSZF4NzXvnIMmrfQANPIEPSFmoL/QPGVqsdK/Sflml\neqoBU4I/bRZhKORU4HabHDHYtsqUqPjYTZy+FvlxAoGAFWHVhFPH1HsGzMQX+MSU\nZUx9exLBfUiepVQCeVFp/ewaleGn3AutNNO09vUIu4Rqra8eRopnhKF7PtrAJFje\n38bh7BSKs6z/qyGoEln5dVWTxs8WTfq0RUk4C7pc0Z+nq4LdnKsEDpdM4AFzKpGe\nbd40xtXN6lfQ0HrJm7sobJI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "tts-446@northern-math-376403.iam.gserviceaccount.com",
+  "client_id": "113173921675630001734",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/tts-446%40northern-math-376403.iam.gserviceaccount.com"
+}
